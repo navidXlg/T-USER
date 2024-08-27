@@ -1,3 +1,3 @@
 export function SubmitPage() {
-	return <main></main>;
+	return <main>This is the Submit</main>;
 }
